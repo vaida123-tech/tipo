@@ -1,0 +1,386 @@
+
+*::before,
+*::after {
+    box-sizing: border-box;
+    height: 3300px;
+width: 1440px; 
+position: relative;}
+
+.nf-tlanding-light-desktop {
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    border-radius: 16px;
+    padding: 70px 80px 470px;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, 0.12);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .header {
+    margin-bottom: 182px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 36px;
+    width: 1280px;
+  }
+  .logo {
+    width: 198px;
+    height: 36px;
+  }
+  .navigation {
+    margin-top: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .features {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+    margin-right: 28px;
+  }
+  .sign-up {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(255, 57, 152, 1);
+  }
+  .hero {
+    margin-bottom: 182px;
+    display: flex;
+    align-items: center;
+    height: 519px;
+width: 1120px;
+left: 80px;
+top: 288px;
+border-radius: 0px;
+
+
+  }
+  .text {
+    margin-right: 146px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .launching-soon {
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(255, 57, 152, 1);
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    letter-spacing: 1.6px;
+  }
+  .an-nft-like-no-other {
+    max-width: 620px;
+    font-family: "Inter";
+    font-size: 96px;
+    font-weight: 900;
+    line-height: normal;
+    color: rgba(17, 17, 17, 1);
+    margin-bottom: 32px;
+  }
+  .dont-miss-out-on-the-release-of-our-new {
+    max-width: 537px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgba(85, 85, 85, 1);
+    margin-bottom: 41px;
+  }
+  .graphic {
+    width: 354px;
+    height: 519px;
+left: 846px;
+top: 288px;
+border-radius: 0px;
+
+
+  }
+  .upsell {
+    height: 320px;
+width: 1280px;
+left: 80px;
+top: 989px;
+ background-size: 100% 100%;
+    background-position: center;
+    margin-bottom: 120px;
+    padding: 154px 596px 64px 64px;
+    display: flex;
+    align-items: flex-start;
+  }
+  /*
+  .text-two {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .free-nft-for-early-birds {
+    width: 620px;
+    font-family: "Inter";
+    font-size: 40px;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(17, 17, 17, 1);
+    margin-bottom: 24px;
+  }
+  .sign-up-today-and-youll-get-a-free-nft {
+    width: 537px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgba(17, 17, 17, 1);
+  }
+  */
+  .press {
+    margin-bottom: 120px;
+    display: flex;
+    align-items: flex-start;
+
+  }
+  .num-1 {
+    width: 216.12px;
+    height: 40.7px;
+    margin-top: 5.6px;
+    margin-right: 106.55px;
+  }
+  .num-2 {
+    width: 154.08px;
+    height: 46.46px;
+    margin-top: 2.54px;
+    margin-right: 106.55px;
+  }
+  .num-3 {
+    width: 132.72px;
+    height: 46.21px;
+    margin-right: 106.55px;
+  }
+  .num-4 {
+    width: 194.76px;
+    height: 40.7px;
+    margin-top: 5.6px;
+    margin-right: 106.55px;
+  }
+  .num-5 {
+    width: 156.12px;
+    height: 40.7px;
+    margin-top: 5.6px;
+  }
+  /*
+  .showcase {
+    margin-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .text-three {
+    margin-bottom: 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .we-have-released-four-limited-edition-nf {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgba(85, 85, 85, 1);
+  }
+  .we-have-released-four-limited-edition-nf-emphasis-1 {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    color: rgba(85, 85, 85, 1);
+  }
+  */
+  .flex-wrapper-seven {
+    display: flex;
+    align-items: flex-start;
+  }
+  .num-1-two:not(:last-of-type) {
+    margin-right: 40px;
+  }
+  .relative-wrapper-one {
+    position: relative;
+  }
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    bottom: -399px;
+  }
+  .divider {
+    width: 1280px;
+    height: 2px;
+    background-color: rgba(238, 238, 238, 1);
+    margin-bottom: 120px;
+  }
+  .flex-wrapper-one {
+    display: flex;
+    align-items: flex-start;
+  }
+  .flex-wrapper-one:not(:last-of-type) {
+    margin-bottom: 120px;
+  }
+  .left {
+    margin-right: 427px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .logo-two {
+    margin-bottom: 30px;
+  }
+  .exclusive-nft-collection {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+    margin-bottom: 32px;
+  }
+  .social {
+    width: 117.64px;
+    height: 18px;
+  }
+  .flex-wrapper-two {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-two:not(:last-of-type) {
+    margin-right: 101px;
+  }
+  .about {
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(85, 85, 85, 1);
+    text-transform: uppercase;
+    margin-bottom: 28px;
+    letter-spacing: 1.6px;
+  }
+  .about-terms-legal {
+    max-width: 59px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+  }
+  .flex-wrapper-three {
+    margin-right: 78px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .open-sea-maker-learn {
+    max-width: 87px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+  }
+  .flex-wrapper-four {
+    margin-right: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .press-support {
+    max-width: 77px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+  }
+  .twitter-instagram {
+    max-width: 95px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(85, 85, 85, 1);
+  }
+  .copyright-2022-nf-tlanding {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(153, 153, 153, 1);
+    margin-right: 769px;
+  }
+  .launching-august-2022 {
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(153, 153, 153, 1);
+    text-align: right;
+  }
+  .footer-upsell {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+  }
+  .divider-two {
+    width: 1280px;
+    height: 2px;
+    background-color: rgba(238, 238, 238, 1);
+    margin-bottom: 85px;
+  }
+  .text-four {
+    margin-top: 35px;
+    margin-right: 202px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .launching-soon-two {
+    width: 651px;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(255, 57, 152, 1);
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    letter-spacing: 1.6px;
+  }
+  .an-nft-like-no-other-two {
+    width: 620px;
+    font-family: "Inter";
+    font-size: 56px;
+    font-weight: 900;
+    line-height: normal;
+    color: rgba(17, 17, 17, 1);
+    margin-bottom: 24px;
+  }
+  .dont-miss-out-on-the-release-of-our-new-two {
+    max-width: 537px;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    color: rgba(85, 85, 85, 1);
+    margin-bottom: 40px;
+  }
+  .image {
+    width: 206px;
+    height: 467px;
+  }
